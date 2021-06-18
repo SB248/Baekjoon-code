@@ -10,3 +10,5 @@ Visual Studio 에서 조건식 적는 공간이 아닌 곳에 a == b 같이 적�
 Scanf()에서 띄어쓰기도 같이 받기 = %[^\n]s 사용
 
 Dev C++ 자동정렬 Ctrl+Shift+a
+
+strlen()를 반복문 조건식에 넣어두면 조건을 비교할 때마다 strlen에 들어간 문자열의 크기만큼 연산을 반복한다. 
